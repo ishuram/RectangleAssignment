@@ -1,0 +1,10 @@
+C:\Users\ishur\source\repos\Assignment1_Seng8040Final\Assignment1_Seng8040Final\bin\Debug\Assignment1_Seng8040Final.exe.config
+C:\Users\ishur\source\repos\Assignment1_Seng8040Final\Assignment1_Seng8040Final\bin\Debug\Assignment1_Seng8040Final.exe
+C:\Users\ishur\source\repos\Assignment1_Seng8040Final\Assignment1_Seng8040Final\bin\Debug\Assignment1_Seng8040Final.pdb
+C:\Users\ishur\source\repos\Assignment1_Seng8040Final\Assignment1_Seng8040Final\bin\Debug\nunit.framework.dll
+C:\Users\ishur\source\repos\Assignment1_Seng8040Final\Assignment1_Seng8040Final\bin\Debug\nunit.framework.xml
+C:\Users\ishur\source\repos\Assignment1_Seng8040Final\Assignment1_Seng8040Final\obj\Debug\Assignment1_Seng8040Final.csprojAssemblyReference.cache
+C:\Users\ishur\source\repos\Assignment1_Seng8040Final\Assignment1_Seng8040Final\obj\Debug\Assignment1_Seng8040Final.csproj.CoreCompileInputs.cache
+C:\Users\ishur\source\repos\Assignment1_Seng8040Final\Assignment1_Seng8040Final\obj\Debug\Assignment1_Seng8040Final.csproj.CopyComplete
+C:\Users\ishur\source\repos\Assignment1_Seng8040Final\Assignment1_Seng8040Final\obj\Debug\Assignment1_Seng8040Final.exe
+C:\Users\ishur\source\repos\Assignment1_Seng8040Final\Assignment1_Seng8040Final\obj\Debug\Assignment1_Seng8040Final.pdb
